@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NinjaMail/static/css/main.0813eef3.css",
+    "main.js": "/NinjaMail/static/js/main.09e9b671.js",
+    "static/media/VIDEO.png": "/NinjaMail/static/media/VIDEO.889b8e90f10454975952.png",
+    "static/media/photo-hero.png": "/NinjaMail/static/media/photo-hero.bc8b95b14b32135025b2.png",
+    "static/media/case-study-pic2.png": "/NinjaMail/static/media/case-study-pic2.b0d59f222e2c0e9b3721.png",
+    "static/media/case-study-pic3.png": "/NinjaMail/static/media/case-study-pic3.92a1657c4592cde5fc10.png",
+    "static/media/case-study-pic1.png": "/NinjaMail/static/media/case-study-pic1.b16d786d1ea3c37fcdd2.png",
+    "static/media/thumb2.png": "/NinjaMail/static/media/thumb2.dc0b24aede1c6103c9f5.png",
+    "static/media/thumb1.png": "/NinjaMail/static/media/thumb1.0289e2149d487a359cb8.png",
+    "index.html": "/NinjaMail/index.html",
+    "main.0813eef3.css.map": "/NinjaMail/static/css/main.0813eef3.css.map",
+    "main.09e9b671.js.map": "/NinjaMail/static/js/main.09e9b671.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0813eef3.css",
+    "static/js/main.09e9b671.js"
+  ]
+}
